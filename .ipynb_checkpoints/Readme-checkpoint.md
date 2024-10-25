@@ -2,7 +2,7 @@ This file contains the instructions for reproducing the results of the paper wit
 
 - the `computational_experiments.ipynb` file contains the main code for the computational experiments.
 - the `datasets` folder contains the datasets used in the experiments.
-- the `tubulin_contact_analysis.ipynb` file contains the code for counting the FSS amino acids present at alpha/beta contact points of tubulin.
+- the `heteromer_structure_fss_analysis.ipynb` file contains the code for counting the FSS amino acids present at the inter-chain contact points of the heteromers - tubulin and histone.
 - the remaining `*.py` files contain utility functions called in the main code.
 
  # installation requirements
